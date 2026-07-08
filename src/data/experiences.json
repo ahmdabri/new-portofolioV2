@@ -1,0 +1,54 @@
+[
+  {
+    "id": "ringnet-it",
+    "role": "IT / Network Support",
+    "company": "PT Ring Media Nusantara",
+    "type": "Work",
+    "period": "Jun 2026 — Jul 2026",
+    "duration": "1 month",
+    "summary": "Installed and configured network devices, provided technical support, and monitored network connectivity.",
+    "highlights": [
+      "Network & Hardware Troubleshooting",
+      "Network Configuration",
+      "Technical Support",
+      "Connectivity Monitoring"
+    ],
+    "image": "/PT Ring Media Nusantara.jpeg",
+    "imageAlt": "Ahmad Ambari at PT Ring Media Nusantara",
+    "monogram": "RMN"
+  },
+  {
+    "id": "aws-academy",
+    "role": "Cloud Computing Trainee",
+    "company": "AWS Academy",
+    "type": "Training",
+    "period": "2024 — 2025",
+    "duration": "1 year",
+    "summary": "Learned the basics of Cloud Computing using Amazon Web Services (AWS) and completed cloud-based case studies.",
+    "highlights": [
+      "AWS Cloud Computing",
+      "EC2, S3, IAM, VPC",
+      "Cloud Security"
+    ],
+    "image": "/Cloud Computing Trainee.jpeg",
+    "imageAlt": "Ahmad Ambari at AWS Academy",
+    "monogram": "AWS"
+  },
+  {
+    "id": "dicoding",
+    "role": "Bootcamp & Learning Path Participant",
+    "company": "Dicoding Academy",
+    "type": "Bootcamp",
+    "period": "2023 — 2025",
+    "duration": "2 years",
+    "summary": "Studied Front-End and Back-End Development, building web applications and applying version control practices.",
+    "highlights": [
+      "Front-End & Back-End Development",
+      "HTML, CSS, JS, PHP, Database",
+      "Git & GitHub Version Control"
+    ],
+    "image": "/Bootcamp & Learning Path Participant.jpeg",
+    "imageAlt": "Ahmad Ambari at Dicoding Academy",
+    "monogram": "DIC"
+  }
+]

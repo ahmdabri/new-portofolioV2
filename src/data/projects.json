@@ -1,0 +1,183 @@
+[
+  {
+    "id": "kra-lms",
+    "number": "01",
+    "name": "Learning Management System",
+    "role": "Fullstack Developer",
+    "category": "fullstack",
+    "featured": true,
+    "experienceId": "ringnet",
+    "experienceLabel": "PT Ring Media Nusantara (RingNet.id)",
+    "summary": "An internal enterprise LMS built for PT Ring Media Nusantara (RingNet.id) that centralizes employee training workflows — from planning, approvals, scheduling, to certification tracking and reporting dashboards.",
+    "contributions": [
+      "Led requirement discovery with the client and translated operational needs into clear system workflows and features",
+      "Drove weekly progress reviews, gathered stakeholder feedback, and proactively recommended improvements to the proposed solution",
+      "Developed the web application across the full implementation lifecycle and independently performed functional testing before UAT",
+      "Managed a two-stage UAT process, starting with the Section Head and continuing through managerial review",
+      "Resolved findings and implemented revisions as business requirements evolved throughout the project",
+      "Partnered closely with the internal IT team to align data structures, business rules, and system implementation"
+    ],
+    "impactSummary": "Transformed fragmented, spreadsheet-based training processes into a centralized platform serving employees across the organization.",
+    "impactStats": [
+      {
+        "value": "300",
+        "label": "Employees"
+      },
+      {
+        "value": "15",
+        "label": "Departments"
+      }
+    ],
+    "impacts": [
+      "Consolidated training data previously distributed across multiple spreadsheets into a centralized source of information",
+      "Turned an internal innovation plan into an operational platform with reusable and standardized curricula for recurring training programs",
+      "Automated survey reminder emails, reducing the need for manual follow-ups after training sessions",
+      "Improved traceability across the training lifecycle, from planning and approval to completion and certification"
+    ],
+    "highlights": [
+      "Role-based access control with multi-level approval workflows",
+      "Interactive scheduling system with calendar integration",
+      "Automated certification tracking and expiry notifications",
+      "Real-time reporting dashboards with exportable data"
+    ],
+    "techStack": [
+      "Laravel Livewire",
+      "Blade",
+      "Laravel",
+      "PHP",
+      "Tailwind CSS",
+      "Alpine.js",
+      "REST API"
+    ],
+    "images": [
+      {
+        "src": "/projects/kra-lms/admin-dashboard.png",
+        "alt": "Learning Management System dashboard overview",
+        "label": "Dashboard Overview",
+        "description": "Active courses, upcoming training schedules, pending surveys, and employee learning progress."
+      },
+      {
+        "src": "/projects/kra-lms/training-schedule.png",
+        "alt": "Learning Management System training calendar",
+        "label": "Training Schedule",
+        "description": "A calendar view for reviewing scheduled employee training sessions."
+      },
+      {
+        "src": "/projects/kra-lms/course.png",
+        "alt": "Learning Management System course detail interface",
+        "label": "Course Detail",
+        "description": "A structured learning flow covering the pre-test, learning module, post-test, and result."
+      }
+    ],
+    "link": null
+  },
+  {
+    "id": "flight-booking",
+    "number": "02",
+    "name": "Flight Booking & E-Ticketing Platform",
+    "role": "Lead Frontend Developer",
+    "category": "frontend",
+    "featured": true,
+    "summary": "A team-based online flight booking and e-ticketing platform developed during Binar Academy program. Led frontend delivery for responsive booking experiences while collaborating with the backend team on API integration, authentication, payments, notifications, and digital ticket generation.",
+    "highlights": [
+      "Led frontend task planning and delivery using ClickUp for team coordination",
+      "Built flight search, seat selection, multi-passenger booking, payment history, and ticket printing flows",
+      "Integrated frontend features with APIs for authentication, flight data, bookings, payments, and notifications",
+      "Managed application state with Redux Toolkit for structured and maintainable user flows"
+    ],
+    "techStack": [
+      "React",
+      "Redux Toolkit",
+      "JavaScript",
+      "Tailwind CSS",
+      "Node.js",
+      "Express.js",
+      "PostgreSQL (Supabase)",
+      "Prisma ORM",
+      "JWT",
+      "OTP",
+      "Vite",
+      "Vercel",
+      "GitHub Actions",
+      "ClickUp"
+    ],
+    "images": [
+      {
+        "src": "/projects/flight-booking/homepage.png",
+        "alt": "Flight search and booking interface",
+        "label": "Flight Search",
+        "description": "A responsive flight search flow for selecting routes, schedules, and passenger requirements."
+      },
+      {
+        "src": "/projects/flight-booking/select-flight.png",
+        "alt": "Flight selection interface",
+        "label": "Select Flight",
+        "description": "A flight selection interface that lets users compare available routes, departure schedules, fares, and airline options before continuing with the booking process."
+      },
+      {
+        "src": "/projects/flight-booking/payment.png",
+        "alt": "Payment confirmation interface",
+        "label": "Payment",
+        "description": "A payment page that summarizes booking details, selected payment method, and the next steps required to complete the reservation."
+      }
+    ],
+    "link": null
+  },
+  {
+    "id": "ppdb-app",
+    "number": "03",
+    "name": "PPDB App",
+    "role": "Fullstack Developer",
+    "category": "fullstack",
+    "featured": true,
+    "summary": "sebuah platform berbasis web yang dirancang untuk memfasilitasi proses pendaftaran siswa baru di sekolah secara digital. Aplikasi ini mempermudah calon siswa dalam melakukan pendaftaran, mengunggah dokumen persyaratan, dan memantau status kelulusan, serta membantu panitia/admin sekolah dalam mengelola data pendaftar dengan lebih efisien.",
+    "highlights": [
+      "Student registration and management",
+      "Admission process tracking"
+    ],
+    "techStack": [
+      "PHP NATIVE",
+      "Tailwind CSS",
+      "HTML5",
+      "JS Vanilla",
+      "Mysql"
+    ],
+    "images": [
+      {
+        "src": "/projects/PPDB/PPDB_ONLINE.png",
+        "alt": "PPDB Online Portal",
+        "label": "PPDB Online",
+        "description": "Portal PPDB Online"
+      }
+    ],
+    "link": "https://github.com/Rynnsza/ppdb-app"
+  },
+  {
+    "id": "sima-arsip",
+    "number": "04",
+    "name": "SIMA Arsip",
+    "role": "Fullstack Developer",
+    "category": "fullstack",
+    "featured": true,
+    "summary": "Aplikasi manajemen arsip digital berbasis web yang dirancang untuk mempermudah organisasi dalam menyimpan, mengklasifikasikan, dan melacak peminjaman dokumen secara sistematis. Aplikasi ini dibangun dengan framework Laravel untuk menjamin keamanan, kecepatan, dan kemudahan pengembangan.",
+    "highlights": [
+      "Document archiving and indexing",
+      "Search and retrieval system"
+    ],
+    "techStack": [
+      "Laravel",
+      "PHP",
+      "Tailwind CSS",
+      "Mysql"
+    ],
+    "images": [
+      {
+        "src": "/projects/SIMA ARSIP/SIARSIP.png",
+        "alt": "SIMA ARSIP Application",
+        "label": "SIMA ARSIP",
+        "description": "Sistem Informasi Manajemen Arsip"
+      }
+    ],
+    "link": "https://github.com/Rynnsza/sima-arsip"
+  }
+]
