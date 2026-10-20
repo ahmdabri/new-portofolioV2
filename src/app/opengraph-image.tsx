@@ -109,7 +109,7 @@ export default function OpenGraphImage() {
               I
             </div>
             <span style={{ fontSize: 17, fontWeight: 700, letterSpacing: 1.2 }}>
-              IQMAL / PORTFOLIO
+              RYZR / PORTFOLIO
             </span>
           </div>
 

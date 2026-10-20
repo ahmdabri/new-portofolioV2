@@ -84,7 +84,7 @@ const navigationItems = [
 
 const socialItems = [
   { label: "Resume", link: "/resume.pdf" },
-  { label: "GitHub", link: "https://github.com/ahmdabri" },
+  { label: "GitHub", link: "https://github.com/Rynnsza" },
   { label: "LinkedIn", link: "https://linkedin.com/in/ahmad-ambari" },
   { label: "Instagram", link: "https://www.instagram.com/ahmdabri_/" },
 ];

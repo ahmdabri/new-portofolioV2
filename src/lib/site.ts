@@ -15,11 +15,11 @@ export const siteConfig = {
     countryCode: "ID",
   },
   social: {
-    github: "https://github.com/ahmdabri",
+    github: "https://github.com/Rynnsza",
     linkedin: "https://linkedin.com/in/ahmad-ambari",
     instagram: "https://www.instagram.com/ahmdabri_/",
   },
-  projectArchive: "https://github.com/ahmdabri",
+  projectArchive: "https://github.com/Rynnsza",
   keywords: [
     "Ahmad Ambari",
     "full-stack web developer",
