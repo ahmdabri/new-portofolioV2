@@ -26,7 +26,6 @@
     "duration": "3 month",
     "summary": "Built an internal LMS for RingNet.id, covering training plans, approvals, scheduling, certification, and reporting.",
     "highlights": [
-      "AWS Cloud Services: EC2, S3, IAM, VPC",
       "LMS Backend Development",
       "Training Workflow Automation",
       "Certification & Reporting"
