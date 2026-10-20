@@ -24,15 +24,14 @@
     "type": "apprenticeship",
     "period": "Mei 2026 — Jul 2026",
     "duration": "3 month",
-    "summary": "Built an internal LMS for RingNet.id, covering training plans, approvals, scheduling, certification, and reporting.",
+    "summary": "Built an internal LMS for RingNet.id, covering training plans, approvals, scheduling, and reporting dashboards.",
     "highlights": [
       "LMS Backend Development",
-      "Training Workflow Automation",
-      "Certification & Reporting"
+      "Training Workflow Automation"
     ],
-    "image": "/Backend Developer - Managed Cloud Computing.jpeg",
+    "image": "/Monitoring LMS - Developed the web application.jpeg",
     "imageAlt": "Ahmad Ambari at PT Ring Media Nusantara",
-    "monogram": "AWS"
+    "monogram": "RING"
   },
   {
     "id": "dicoding",
@@ -41,7 +40,7 @@
     "type": "Bootcamp",
     "period": "2023 — 2025",
     "duration": "3 years",
-    "summary": "Studied Front-End and Back-End Development, building web applications and applying version control practices.",
+    "summary": "Studied Front-End and Back-End Development,building web applications and applying version control practices.",
     "highlights": [
       "Front-End & Back-End Development",
       "React Js, Vue JS, JavaScript, Laravel, Mysql, PostgreSQL",
