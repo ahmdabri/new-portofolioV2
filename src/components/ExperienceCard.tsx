@@ -75,7 +75,7 @@ export default function ExperienceCard({
         className,
       )}
     >
-      <div className="flex min-h-0 flex-col overflow-hidden px-5 py-4 sm:px-8 sm:py-6 lg:px-14 lg:py-12">
+      <div className="flex min-h-0 flex-col overflow-hidden px-5 py-4 sm:px-8 sm:py-6 lg:px-10 lg:py-8">
         <header>
           <div className="flex flex-wrap items-center gap-2 font-mono text-[0.55rem] uppercase tracking-[0.24em] text-card-foreground/50 sm:gap-3 sm:text-[0.65rem]">
             <span>Professional experience</span>
@@ -84,20 +84,20 @@ export default function ExperienceCard({
             </span>
           </div>
 
-          <h3 className="mt-3 max-w-[16ch] text-[clamp(1.45rem,6.8vw,1.9rem)] font-bold uppercase leading-[0.9] tracking-[-0.055em] sm:mt-4 sm:text-[clamp(2rem,4.2vw,4rem)] sm:leading-[0.93] lg:mt-7">
+          <h3 className="mt-3 max-w-[16ch] text-[clamp(1.45rem,6.8vw,1.9rem)] font-bold uppercase leading-[0.9] tracking-[-0.055em] sm:mt-4 sm:text-[clamp(2rem,4.2vw,3.25rem)] sm:leading-[0.93] lg:mt-6">
             {experience.role}
           </h3>
 
-          <p className="mt-3 text-[0.68rem] font-bold uppercase leading-relaxed tracking-[0.08em] sm:mt-4 sm:text-sm lg:mt-5 lg:text-base">
+          <p className="mt-3 text-[0.68rem] font-bold uppercase leading-relaxed tracking-[0.08em] sm:mt-4 sm:text-sm lg:mt-4 lg:text-sm">
             {experience.company}
           </p>
         </header>
 
-        <p className="mt-3 max-w-[55ch] text-[0.7rem] leading-[1.4] text-card-foreground/75 sm:mt-6 sm:text-base sm:leading-[1.55] lg:mt-8 lg:text-lg lg:leading-[1.5]">
+        <p className="mt-3 max-w-[55ch] text-[0.7rem] leading-[1.4] text-card-foreground/75 sm:mt-6 sm:text-base sm:leading-[1.55] lg:mt-6 lg:text-base lg:leading-[1.45]">
           {experience.summary}
         </p>
 
-        <div className="mt-3 sm:mt-6 lg:mt-10">
+        <div className="mt-3 sm:mt-6 lg:mt-6">
           <p className="mb-1.5 text-[0.55rem] font-bold uppercase tracking-[0.24em] text-card-foreground/50 sm:mb-3 sm:text-xs lg:mb-4">
             Highlights
           </p>
@@ -105,12 +105,12 @@ export default function ExperienceCard({
             {experience.highlights.map((highlight, highlightIndex) => (
               <li
                 key={highlight}
-                className="flex items-center gap-2 border-t border-card-foreground/18 py-1.5 pr-2 sm:min-h-12 sm:gap-3 sm:py-3 sm:pr-4 lg:min-h-16 lg:gap-4 lg:py-4"
+                className="flex items-center gap-2 border-t border-card-foreground/18 py-1.5 pr-2 sm:min-h-12 sm:gap-3 sm:py-3 sm:pr-4 lg:min-h-12 lg:gap-3 lg:py-3"
               >
                 <span className="font-mono text-[0.55rem] font-semibold text-card-foreground/45 sm:text-xs">
                   {formatCardNumber(highlightIndex + 1)}
                 </span>
-                <span className="text-[0.58rem] font-semibold uppercase leading-tight tracking-[0.06em] sm:text-[0.72rem] sm:leading-relaxed lg:text-[0.8rem]">
+                <span className="text-[0.58rem] font-semibold uppercase leading-tight tracking-[0.04em] sm:text-[0.72rem] sm:leading-relaxed lg:text-[0.68rem]">
                   {highlight}
                 </span>
               </li>
