@@ -93,7 +93,7 @@ export default function ExperienceCard({
           </p>
         </header>
 
-        <p className="mt-3 max-w-[55ch] text-[0.7rem] leading-[1.4] text-card-foreground/75 sm:mt-6 sm:text-base sm:leading-[1.55] lg:mt-auto lg:pt-14 lg:text-lg lg:leading-[1.65]">
+        <p className="mt-3 max-w-[55ch] text-[0.7rem] leading-[1.4] text-card-foreground/75 sm:mt-6 sm:text-base sm:leading-[1.55] lg:mt-8 lg:text-lg lg:leading-[1.5]">
           {experience.summary}
         </p>
 

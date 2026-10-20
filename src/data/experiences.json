@@ -4,8 +4,8 @@
     "role": "IT / Network Support",
     "company": "PT Lintas Data Prima",
     "type": "apprenticeship",
-    "period": "Jun 2026 — Jul 2026",
-    "duration": "1 month",
+    "period": "April 2025 — Jul 2025",
+    "duration": "4 month",
     "summary": "Installed and configured network devices, provided technical support, and monitored network connectivity.",
     "highlights": [
       "Network & Hardware Troubleshooting",
@@ -24,12 +24,12 @@
     "type": "apprenticeship",
     "period": "Mei 2026 — Jul 2026",
     "duration": "3 month",
-    "summary": "An internal enterprise LMS built for PT Ring Media Nusantara (RingNet.id) that centralizes employee training workflows — from planning, approvals, scheduling, to certification tracking and reporting dashboards.",
+    "summary": "Built an internal LMS for RingNet.id, covering training plans, approvals, scheduling, certification, and reporting.",
     "highlights": [
-      "EC2, S3, IAM, VPC",
-      "Network & Hardware Troubleshooting",
-      "Technical Support",
-      "Connectivity Monitoring"
+      "AWS Cloud Services: EC2, S3, IAM, VPC",
+      "LMS Backend Development",
+      "Training Workflow Automation",
+      "Certification & Reporting"
     ],
     "image": "/Backend Developer - Managed Cloud Computing.jpeg",
     "imageAlt": "Ahmad Ambari at PT Ring Media Nusantara",
