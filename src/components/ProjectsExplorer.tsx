@@ -102,7 +102,7 @@ export default function ProjectsExplorer({ projects }: ProjectsExplorerProps) {
               <article key={project.id} className="group min-w-0">
                 <Link
                   href={`/projects/${project.id}`}
-                  className="relative block aspect-[16/10] overflow-hidden rounded-2xl bg-secondary"
+                  className="relative block aspect-16/10 overflow-hidden rounded-2xl bg-secondary"
                   aria-label={`View ${project.name}`}
                 >
                   {cover && (

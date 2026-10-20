@@ -150,7 +150,7 @@ export default function PageTransition({
         <m.div
           aria-hidden="true"
           data-page-transition
-          className="pointer-events-none fixed inset-0 z-[9999] bg-[#111114]"
+          className="pointer-events-none fixed inset-0 z-9999 bg-[#111114]"
           initial={false}
           animate={{ clipPath }}
           transition={

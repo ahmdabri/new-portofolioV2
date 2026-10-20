@@ -110,7 +110,7 @@ export default function ExperienceCard({
                 <span className="font-mono text-[0.55rem] font-semibold text-card-foreground/45 sm:text-xs">
                   {formatCardNumber(highlightIndex + 1)}
                 </span>
-                <span className="text-[0.58rem] font-semibold uppercase leading-[1.25] tracking-[0.06em] sm:text-[0.72rem] sm:leading-relaxed lg:text-[0.8rem]">
+                <span className="text-[0.58rem] font-semibold uppercase leading-tight tracking-[0.06em] sm:text-[0.72rem] sm:leading-relaxed lg:text-[0.8rem]">
                   {highlight}
                 </span>
               </li>

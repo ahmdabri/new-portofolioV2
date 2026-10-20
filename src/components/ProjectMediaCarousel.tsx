@@ -83,7 +83,7 @@ export default function ProjectMediaCarousel({
 
   return (
     <div className="min-w-0 lg:[direction:ltr]">
-      <div className="group/img relative isolate aspect-[16/10] overflow-hidden rounded-lg bg-secondary">
+      <div className="group/img relative isolate aspect-16/10 overflow-hidden rounded-lg bg-secondary">
         <Swiper
           modules={[A11y, Keyboard]}
           className="project-media-swiper"
@@ -177,7 +177,7 @@ export default function ProjectMediaCarousel({
             <p className="mt-1 truncate text-[0.65rem] font-semibold tracking-[0.16em] text-foreground/65">
               {activeSlide.label}
             </p>
-            <p className="mt-1 max-w-[32rem] text-[0.72rem] normal-case leading-relaxed tracking-normal text-foreground/45">
+            <p className="mt-1 max-w-lg text-[0.72rem] normal-case leading-relaxed tracking-normal text-foreground/45">
               {activeSlide.description}
             </p>
           </div>
