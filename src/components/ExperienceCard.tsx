@@ -31,6 +31,7 @@ function ExperienceVisual({ experience }: { experience: Experience }) {
       <Image
         src={experience.image}
         alt={experience.imageAlt}
+        title={experience.imageAlt}
         fill
         sizes="(min-width: 1024px) 440px, 100vw"
         className="h-full w-full object-cover object-[center_62%] grayscale transition-[filter,scale] duration-1000 ease-[cubic-bezier(0.16,1,0.3,1)] lg:group-hover/media:scale-105 group-hover/media:grayscale-0 motion-reduce:transition-none motion-reduce:group-hover/media:scale-100"
