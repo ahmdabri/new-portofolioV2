@@ -19,7 +19,7 @@
   },
   {
     "id": "ringnet-it",
-    "role": "Backend Developer - Managed Cloud Computing",
+    "role": "Backend Developer - Monitoring LMS",
     "company": "PT Ring Media Nusantara",
     "type": "apprenticeship",
     "period": "Mei 2026 — Jul 2026",
@@ -27,7 +27,8 @@
     "summary": "Built an internal LMS for RingNet.id, covering training plans, approvals, scheduling, and reporting dashboards.",
     "highlights": [
       "LMS Backend Development",
-      "Training Workflow Automation"
+      "Training Workflow Automation",
+      "Connectivity Monitoring"
     ],
     "image": "/Monitoring LMS - Developed the web application.jpeg",
     "imageAlt": "Monitoring LMS - Developed the web application",
